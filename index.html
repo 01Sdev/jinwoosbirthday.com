@@ -133,7 +133,7 @@
         <nav>
             <a href="#video">귀요미 진우</a>
             <a href="#flashcards">축사</a>
-            <a href="#gallery">사진 갤러리</a>
+            <a href="#gallery">갤러리</a>
             <a href="#recommendation">추천곡</a>
         </nav>
     </header>
