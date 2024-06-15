@@ -129,12 +129,12 @@
 </head>
 <body>
     <header>
-        <h1>친구의 생일을 축하합니다!</h1>
+        <h1>진우유님, 생일을 축하합니다!</h1>
         <nav>
             <a href="#video">귀요미 진우</a>
             <a href="#flashcards">축사</a>
             <a href="#gallery">사진 갤러리</a>
-            <a href="#recommendation">추천 곡</a>
+            <a href="#recommendation">추천곡</a>
         </nav>
     </header>
     <div class="container">
